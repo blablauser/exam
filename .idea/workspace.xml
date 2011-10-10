@@ -35,7 +35,7 @@
       <file leaf-file-name="question_paper_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/question_paper_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="26" selection-start="210" selection-end="210" vertical-scroll-proportion="0.22099447">
+            <state line="9" column="29" selection-start="264" selection-end="264" vertical-scroll-proportion="0.24861878">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="question_paper.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/question_paper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
+            <state line="8" column="3" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -65,8 +65,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/lib/question_paper.rb" />
         <option value="$PROJECT_DIR$/spec/question_paper_spec.rb" />
+        <option value="$PROJECT_DIR$/lib/question_paper.rb" />
       </list>
     </option>
   </component>
@@ -343,14 +343,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/question_paper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
+        <state line="8" column="3" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/question_paper_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="210" selection-end="210" vertical-scroll-proportion="0.22099447">
+        <state line="9" column="29" selection-start="264" selection-end="264" vertical-scroll-proportion="0.24861878">
           <folding />
         </state>
       </provider>

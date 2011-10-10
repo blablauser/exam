@@ -1,7 +1,13 @@
 class QuestionPaper
+ attr_reader :questions
+
+ def initialize
+   @questions=[]
+ end
 
   def questions
-    return 3333
+
+    return @questions
 
   end
 end
