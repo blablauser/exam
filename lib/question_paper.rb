@@ -13,4 +13,13 @@ class QuestionPaper
   def add(question)
     @questions.push(question)
   end
+
+  def total_marks
+    sum=0
+    @questions.each do | question |
+      sum = sum + question.mark
+    end
+    sum
+  end
+
 end
