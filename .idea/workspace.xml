@@ -35,7 +35,7 @@
       <file leaf-file-name="question_paper_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/question_paper_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="46" selection-start="889" selection-end="889" vertical-scroll-proportion="0.6415441">
+            <state line="31" column="46" selection-start="956" selection-end="956" vertical-scroll-proportion="0.6691176">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="question_paper.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/question_paper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+            <state line="19" column="6" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -442,14 +442,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/question_paper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
+        <state line="19" column="6" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/question_paper_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="46" selection-start="889" selection-end="889" vertical-scroll-proportion="0.6415441">
+        <state line="31" column="46" selection-start="956" selection-end="956" vertical-scroll-proportion="0.6691176">
           <folding />
         </state>
       </provider>

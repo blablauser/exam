@@ -31,8 +31,8 @@ describe QuestionPaper do
     question.stub!(:mark).and_return(10)
     subject.add(question)
 
-    question.should_receive(:some_funny_method_name)
-    question.some_funny_method_name()
+    question.should_receive(:mark)
+
 
     subject.total_marks
   end
