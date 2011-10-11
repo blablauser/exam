@@ -22,6 +22,10 @@ class QuestionPaper
     sum
   end
 
+  def available_marks
+
+  end
+
 
 
 end
