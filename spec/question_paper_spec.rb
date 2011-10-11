@@ -26,11 +26,14 @@ describe QuestionPaper do
     subject.total_marks.should == 30
   end
 
-  #it "should call total_marks on the question in the paper" do
-  #  question = mock('Question')
-  #  question.stub!(:mark).and_return(10)
-  #  subject.add(question)
-  #
-  #
-  #end
+  it "should call total_marks on the question in the paper" do
+    question = mock('Question')
+    question.stub!(:mark).and_return(10)
+    subject.add(question)
+
+    question.should_receive(:some_funny_method_name)
+    question.some_funny_method_name()
+
+    subject.total_marks
+  end
 end
